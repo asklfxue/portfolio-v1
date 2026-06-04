@@ -4,7 +4,7 @@ A clean, dark minimal portfolio site built to showcase my frontend development p
 
 ## Live Site
 
-> Coming soon — will be deployed via GitHub Pages
+(https://asklfxue.github.io/portfolio-v1/)
 
 ## Built With
 
