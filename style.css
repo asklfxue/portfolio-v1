@@ -399,7 +399,7 @@ a {
     grid-template-columns: 1fr 1.5fr;
     gap: 80px;
     align-items: start;
-    padding: 0;
+    padding: var(--section-padding);
 }
 
 .about__right {
