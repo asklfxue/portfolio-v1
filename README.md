@@ -1,7 +1,6 @@
 # Kyle Harper — Frontend Developer Portfolio
 
-A clean, dark minimal portfolio site built to showcase my frontend development projects and attract freelance clients.
-
+A clean, dark minimal portfolio site built to showcase my frontend development projects.
 ## Live Site
 
 (https://asklfxue.github.io/portfolio-v1/)
