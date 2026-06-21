@@ -1,9 +1,10 @@
 # Kyle Harper — Frontend Developer Portfolio
 
-A clean, dark minimal portfolio site built to showcase my frontend development projects.
+A clean, dark, minimal portfolio site to showcase my frontend projects. Built with AI assistance and then customised by me until I understood how every part works.
+
 ## Live Site
 
-(https://kyleharperdev.github.io/portfolio-v1/)
+[kyleharperdev.github.io/portfolio-v1](https://kyleharperdev.github.io/portfolio-v1/)
 
 ## Built With
 
@@ -14,8 +15,8 @@ A clean, dark minimal portfolio site built to showcase my frontend development p
 
 ## Projects Featured
 
-- **Iron Peak Fitness** — A fully responsive multi-page gym website built in vanilla HTML, CSS, and JavaScript
-- **Kenpo** *(in progress)* — A productivity app built with React and Tailwind CSS, featuring a dual-timer system, Kanban board, and stats dashboard
+- **Iron Peak Fitness** — a fully responsive multi-page gym website in vanilla HTML, CSS, and JavaScript (self-built, AI used only for a final review)
+- **Kenpo** *(in progress)* — a productivity app in React and Tailwind, with a dual-timer system, Kanban board, and stats dashboard planned
 
 ## Features
 
