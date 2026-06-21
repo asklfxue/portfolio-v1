@@ -16,6 +16,7 @@ A clean, dark, minimal portfolio site to showcase my frontend projects. Built wi
 ## Projects Featured
 
 - **Iron Peak Fitness** — a fully responsive multi-page gym website in vanilla HTML, CSS, and JavaScript (self-built, AI used only for a final review)
+- **Weather App** — a weather dashboard in React, TypeScript and Tailwind with live OpenWeatherMap data, an interactive map, and Zod-validated responses (built by following a tutorial)
 - **Kenpo** *(in progress)* — a productivity app in React and Tailwind, with a dual-timer system, Kanban board, and stats dashboard planned
 
 ## Features
